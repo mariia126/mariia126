@@ -60,7 +60,7 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
 <a href="https://www.instagram.com/maria._.126/" style="margin: 0 10px;">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="60">
 </a>
-<a href="https://www.linkedin.com/in/maría-garcía-garcía-474964222/" style="margin: 0 10px;">
+<a href="https://www.linkedin.com/in/mariia126/" style="margin: 0 10px;">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="60">
 </a>
 
