@@ -3,8 +3,6 @@
 [![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Welcomee!!+🛸;My+name+is+María+👾;&font=ubuntu&color=32a852&center=true)](https://git.io/typing-svg)
 </div>
 
-
-
 <p>I'm a Junior Platform Engineer from <b>Asturias, Spain</b> &nbsp <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/>
 <br>
 Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new technologies step by step !</p>
@@ -46,7 +44,7 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
 <br>
 </div>
 <ul>
-  <li><a href="https://blog.resiz.es/sftp-server-in-kubernetes-with-sftpgo"><b> SFTP server in Kubernetes with SFTPGo</b></a><br/><i>The deployment of SFTPGo on an EKS cluster begins with provisioning the required resources, so let's start by creating the necessary infrastructure with Terraform.!.</i></li>
+  <li><a href="https://blog.resiz.es/sftp-server-in-kubernetes-with-sftpgo"><b> SFTP server in Kubernetes with SFTPGo</b></a><br/><i>The deployment of SFTPGo on an EKS cluster begins with provisioning the required resources, so let's start by creating the necessary infrastructure with Terraform !</i></li>
 ------------
 
 <br>
@@ -62,6 +60,9 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
 </a>
 <a href="https://www.linkedin.com/in/mariia126/" style="margin: 0 10px;">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="60">
+</a>
+<a href="https://steamcommunity.com/profiles/76561199243503767/" style="margin: 0 10px;">
+  <img src="https://img.icons8.com/color/48/000000/steam.png" width="60">
 </a>
 
 </div>
