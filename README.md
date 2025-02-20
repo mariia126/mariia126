@@ -46,11 +46,10 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
 <div align="center">
 <h3>💡 &nbsp; My latest post &nbsp; 💡</h3>
 <br>
-</div>
 <ul>
   <li><a href="https://blog.resiz.es/sftp-server-in-kubernetes-with-sftpgo"><b> SFTP server in Kubernetes with SFTPGo</b></a><br/><i>The deployment of SFTPGo on an EKS cluster begins with provisioning the required resources, so let's start by creating the necessary infrastructure with Terraform !</i></li>
 ------------
-
+</div>
 <br>
 <br>
 
