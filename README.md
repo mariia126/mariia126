@@ -4,11 +4,13 @@
 </div>
 
 <div align="center">
+<h3>👩‍💻 &nbsp; About Me &nbsp; 👩‍💻</h3>
 <p>I'm a Junior Platform Engineer from <b>Asturias, Spain</b> &nbsp <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/>
 <br>
 Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new technologies step by step !</p>
 </div>
 <br>
+
 
 <div align="center">
 <h3>🚀 &nbsp Things I used &nbsp 🚀 </h3>
