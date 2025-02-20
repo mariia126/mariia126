@@ -3,13 +3,15 @@
 [![Welcome!](https://readme-typing-svg.herokuapp.com/?lines=Welcomee!!+🛸;My+name+is+María+👾;&font=ubuntu&color=32a852&center=true)](https://git.io/typing-svg)
 </div>
 
+<div align="center">
 <p>I'm a Junior Platform Engineer from <b>Asturias, Spain</b> &nbsp <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/>
 <br>
 Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new technologies step by step !</p>
+</div>
 <br>
 
 <div align="center">
-<h3>⬇ &nbsp Things I used &nbsp ⬇ </h3>
+<h3>🚀 &nbsp Things I used &nbsp 🚀 </h3>
 <br>
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23DD0031.svg?style=for-the-badge&logo=npm&logoColor=white&color=orange"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -40,7 +42,7 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
  <br>
 
 <div align="center">
-<h3>⬇ &nbsp My latest post &nbsp ⬇ </h3>
+<h3>💡 &nbsp; My latest post &nbsp; 💡</h3>
 <br>
 </div>
 <ul>
@@ -51,18 +53,23 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
 <br>
 
 <div align="center">
+  <h3>📩 &nbsp; Contact Me &nbsp; 📩</h3>
+  <br>
+  <a href="mailto:maria@resiz.es">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariia126/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/maria._.126/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199243503767/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</div>
 
-<a href="mailto:maria@resiz.es" style="margin: 0 10px;">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="60">
-</a>
-<a href="https://www.instagram.com/maria._.126/" style="margin: 0 10px;">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="60">
-</a>
-<a href="https://www.linkedin.com/in/mariia126/" style="margin: 0 10px;">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="60">
-</a>
-<a href="https://steamcommunity.com/profiles/76561199243503767/" style="margin: 0 10px;">
-  <img src="https://img.icons8.com/color/48/000000/steam.png" width="60">
-</a>
-
+<div align="center">
+  <br>
+  <p>Thank you for visiting my profile! 👋</p>
 </div>
