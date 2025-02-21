@@ -44,8 +44,19 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
  <br>
 
 <div align="center">
-<h3>💡 &nbsp; My latest post &nbsp; 💡</h3>
+<h3>🏆 &nbsp; Certifications &nbsp; 🏆</h3>
+
+  [AWS Partner: Sales Accreditation](https://www.credly.com/badges/159e184b-7b5c-424d-a4f1-8810d1f6b110/linked_in_profile)
 <br>
+  [AWS Partner: Technical Accredited](https://www.credly.com/badges/12b90a03-4508-481e-9f4c-aa8adbe68d48/linked_in_profile)
+
+</div>
+
+<br>
+<br>
+<div align="center">
+<h3>💡 &nbsp; My latest post &nbsp; 💡</h3>
+
 <ul>
   <li><a href="https://blog.resiz.es/sftp-server-in-kubernetes-with-sftpgo"><b> SFTP server in Kubernetes with SFTPGo</b></a><br/><i>The deployment of SFTPGo on an EKS cluster begins with provisioning the required resources, so let's start by creating the necessary infrastructure with Terraform !</i></li>
 ------------
@@ -63,10 +74,10 @@ Currently working at <a href="https://resiz.es/es/">Resizes</a> and learning new
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/maria._.126/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199243503767/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 </div>
 
